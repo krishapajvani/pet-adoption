@@ -5,9 +5,6 @@ A simple and responsive landing page for a pet adoption website built using **HT
 ## 🌐 Live Demo
 [Click here to view the live site](https://krishapajvani.github.io/pet-adoption/)
 
-## 📸 Screenshot
-*(Add a screenshot here once you upload it to the repo)*
-
 ## 🚀 Features
 - Clean, modern layout using Flexbox
 - Mobile-friendly responsive cards
